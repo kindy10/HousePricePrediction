@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 .vscode/
 .env
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained models
+models/*.pkl
