@@ -480,7 +480,7 @@ The final Random Forest configuration was:
 
 RandomForestRegressor(
 
-&#x20;   n\_estimators=300,
+&#x20;   n\_estimators=400,
 
 &#x20;   max\_depth=None,
 
